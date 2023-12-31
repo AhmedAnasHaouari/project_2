@@ -1,4 +1,4 @@
-# Project Title
+# Income Classification Model:
 
 ## Business Problem and Stakeholders
 
